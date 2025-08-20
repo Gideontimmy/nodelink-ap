@@ -17,16 +17,8 @@ README.md – Project overview and instructions.
 Usage / Development URL
 
 This repository is hosted on GitHub Pages and can be accessed at:
-
-
-
-Use this URL as the Development URL in the Pi Developer Portal for sandbox testing.
-
-
----
+https://github.com/Gideontimmy/nodelink-ap
 
 License
-
-You can include a simple license note if desired, e.g.,
 
 © 2025 NodeLink. All rights reserved.
